@@ -1,0 +1,21 @@
+---
+layout: layouts/base.njk
+tags: headerNav
+eleventyNavigation:
+  key: tech-stack
+  title: tech-stack
+  parent: bio
+  order: 0
+---
+<article>
+  <ul class="tech-list">
+    {% for project in projects.opensource -%}
+      <li>
+        <a href="javascript:void();">
+          {{project.name}}
+        </a>
+        <small>{{project.description}}</small>
+      </li>
+    {% endfor %}
+  </ul>
+</article>

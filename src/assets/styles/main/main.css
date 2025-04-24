@@ -10,6 +10,8 @@
 @import './pages/index.css';
 @import './pages/playlists.css';
 @import './pages/projects.css';
+@import './pages/tech-stack.css';
+@import './pages/contact.css';
 @import './partials/tv.css';
 
 :root {
@@ -18,7 +20,8 @@
 
   --font-primary: 'VCR OSD Mono', monospace;
   --font-size-primary: clamp(16px, 1.8vw, 34px);
-  --font-size-secondary: clamp(24px, 4.6vw, 63px);
+  --font-size-secondary: clamp(24px, 4.6vw, 52px);
+  --font-size-normal: clamp(16px, 1.8vw, 22px);
   --line-height: 1.4;
 
   --layer-top: 55;
@@ -32,7 +35,7 @@
   --glitchy-red: rgba(183, 2, 2, 0.4);
   --container-width: 80%;
   --gui-side: calc((100% - var(--container-width)) / 2);
-  --gui-bottom: 2.94117647059rem;
+  --gui-bottom: 2rem;
 }
 
 /* scrollbar */

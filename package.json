@@ -1,7 +1,7 @@
 {
-  "name": "kaisermann.me",
+  "name": "thomasfeeney.com",
   "version": "2.0.0",
-  "author": "Christian Kaisermann",
+  "author": "Thomas Feeney",
   "license": "MIT",
   "scripts": {
     "start": "npm run dev",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kaisermann/kaisermann.me"
+    "url": "https://github.com/bytes4guru/portfolio"
   },
   "devDependencies": {
     "@11ty/eleventy": "^0.11.0",

@@ -28,10 +28,12 @@ const bootstrap = () => {
       target: document.querySelector('.js-space-trigger'),
     });
   });
+  
 };
 
 if (document.readyState !== 'interactive') {
   window.addEventListener('DOMContentLoaded', bootstrap);
+  
 } else {
   bootstrap();
 }

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+      <url>
+        <loc>localhost:8080/</loc>
+      </url>
+      <url>
+        <loc>localhost:8080/lab/</loc>
+      </url>
+      <url>
+        <loc>localhost:8080/lab/noita-particles/</loc>
+      </url>
+      <url>
+        <loc>localhost:8080/lab/raymarching/</loc>
+      </url>
+      <url>
+        <loc>localhost:8080/tech-stack/</loc>
+      </url>
+      <url>
+        <loc>localhost:8080/playlists/</loc>
+      </url>
+      <url>
+        <loc>localhost:8080/resume/</loc>
+      </url>
+      <url>
+        <loc>localhost:8080/projects/</loc>
+      </url>
+      <url>
+        <loc>localhost:8080/contact/</loc>
+      </url>
+</urlset>

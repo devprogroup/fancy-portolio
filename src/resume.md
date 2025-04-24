@@ -4,15 +4,11 @@ textNav:
   external: true
 ---
 
-# Christian Kaisermann
+# Thomas Feeney
 
 I'm a Web Engineer with over a decade of experience, passionate about open-source, developer tooling, and crafting scalable front-end architectures. Currently, I work at Circuit Routing, enhancing the last-mile delivery experience by improving our front-end infrastructure and developer experience. I have a strong background in TypeScript, Svelte, React, and CSS, and I'm an advocate for clean, maintainable code. Beyond work, I'm a contributor to the Svelte ecosystem and the author of several open-source libraries. I thrive in collaborative environments and love sharing knowledge through mentorship and open-source contributions.
 
-[GitHub](https://github.com/kaisermann)
-<br>
-[Website](https://kaisermann.me) (give it a look!)
-<br>
-[Email](mailto:christian@kaisermann.me)
+[GitHub](https://github.com/kaisermann)  [Website](https://kaisermann.me) [Email](mailto:christian@kaisermann.me)
 
 ### Skills
 
@@ -63,4 +59,4 @@ My peers usually think I'm easy-going, communicative, a fast learner, and a refe
 
 ### Education
 
-- Bachelor’s Degree in Information Systems, **PUC-Rio University** _(2011 – 2016)_
+- Bachelor’s Degree in Computer Science, **University of St. Andrews** _(2007 – 2012)_

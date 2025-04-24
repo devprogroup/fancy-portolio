@@ -31,6 +31,9 @@ module.exports = (config) => {
   config.addPlugin(navigationPlugin);
   config.addPlugin(pluginRss);
   config.addPlugin(assetManager);
+  config.addCollection("headerNav", (collectionApi) => {
+    return collectionApi.getAll().filter(item => "eleventyNavigation" in item.data);
+  })
 
   return {
     dir: {

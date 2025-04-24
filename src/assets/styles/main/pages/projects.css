@@ -1,7 +1,7 @@
 .project-list {
   display: grid;
   grid-template-columns: 1fr;
-  gap: 3.4rem;
+  gap: 2.4rem;
 
   /* title */
   & a {
@@ -16,8 +16,20 @@
     color: var(--text-primary);
     font-size: var(--font-size-primary);
   }
-
-  @media (min-width: 580px) {
-    grid-template-columns: 1fr 1fr;
+  & .project-item {
+    display: grid;
+    grid-template-columns: 460px 1fr;
+    gap: 1rem;
+    & .project-title {
+      font-size: 44px;
+    }
+    & .project-subtitle {
+      font-size: 30px;
+      color: white;
+    }
+    & .project-description {
+      font-size: 28px;
+    }
   }
+ 
 }

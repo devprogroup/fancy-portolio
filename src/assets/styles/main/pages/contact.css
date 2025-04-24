@@ -1,0 +1,31 @@
+.form-group {
+    margin-bottom: 0.6rem;
+}
+
+label {
+    display: block;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 0.4rem;
+    border: 1px solid #ccc;
+    font-size: var(--font-size-normal);
+    border-radius: 4px;
+    outline: none;
+    background-color: transparent;
+    color: white;
+}
+
+.btn-submit {
+    background-color: transparent;
+    color: white;
+    border: 1px solid #ccc;
+    font-size: var(--font-size-primary);
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    display: block;
+    width: 100%;
+    cursor: pointer;
+    text-align: center;
+}

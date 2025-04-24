@@ -7,9 +7,9 @@ const env = (dev, prod = dev) => {
 };
 
 module.exports = {
-  title: 'kaisermann | web engineer',
+  title: 'Thomas Feeney | web developer',
   description: 'Coding for humans. Come say hi 🌳',
-  twitter: 'kiwistian',
-  baseUrl: env('localhost:8080', 'https://kaisermann.me'),
+  twitter: 'thomasfeeney',
+  baseUrl: env('localhost:8080', 'https://thomas-feeney.com'),
   thumb: '/assets/images/big-rainbow-static.jpg',
 };

@@ -5,10 +5,10 @@
 /public
 
 # secrets and errors
-.env
 /yarn-error.log
 
 # macOS related files
 .DS_Store
 .AppleDouble
 .LSOverride
+config.bat

@@ -214,7 +214,15 @@ window.addEventListener(
   false,
 );
 
-window.addEventListener('contentChange', lookForChannelButtons);
 
+
+window.addEventListener('contentChange', lookForChannelButtons);
+document.querySelector('.tv-content').addEventListener('scroll', (e) => {
+  if(e.target.scrollTop > 5) {
+    document.querySelector('body').classList.add('scrolling');
+  } else {
+    document.querySelector('body').classList.remove('scrolling');
+  }
+});
 loadChannelTimestamps();
 lookForChannelButtons();

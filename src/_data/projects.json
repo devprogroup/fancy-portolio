@@ -1,121 +1,96 @@
 {
   "opensource": [
     {
-      "url": "https://github.com/kaisermann/svelte-preprocess",
-      "name": "svelte-preprocess",
-      "description": "quick and painless preprocess support for svelte"
+      "name": "Programming Language",
+      "description": "C#, Python, Typescript, Javascript, HTML, CSS, SASS"
     },
     {
-      "url": "https://github.com/kaisermann/svelte-i18n",
-      "name": "svelte-i18n",
-      "description": "internationalization library for Svelte"
+      "name": "Frameworks & Tools",
+      "description": "ASP.Net, Django, NextJS, NodeJS, React, Angular, Vue, Svelte"
     },
     {
-      "url": "https://github.com/kaisermann/svelte-loadable",
-      "name": "svelte-loadable",
-      "description": "dynamically load a svelte component"
+      "name": "database",
+      "description": "PostgresSQL, MSSQL MySQL, ORM, Stored Procedure, Firebase, MongoDB, NoSQL"
     },
     {
-      "url": "https://github.com/kaisermann/svelte-css-vars",
-      "name": "svelte-css-vars",
-      "description": "reactive css variables in svelte"
-    },
-    {
-      "url": "https://github.com/vtex/typescript",
-      "name": "vtex/typescript",
-      "description": "VTEX's typescript/javascript styleguide, tooling and recipes"
-    },
-    {
-      "url": "https://github.com/vtex/danger",
-      "name": "vtex/danger",
-      "description": "encapsulated danger ruleset and github action"
-    },
-    {
-      "url": "https://github.com/stone-payments/pos-mamba-sdk",
-      "name": "pos-mamba-sdk",
-      "description": "SDK for developing apps for the Mamba POS system"
-    },
-    {
-      "url": "https://github.com/stone-payments/pos-mamba-app-template",
-      "name": "pos-mamba-app-template",
-      "description": "template for creating apps for the Mamba POS system"
-    },
-    {
-      "url": "https://github.com/kaisermann/photoswippy",
-      "name": "photoswippy",
-      "description": "a PhotoSwipe friendly wrapper"
-    },
-    {
-      "url": "https://github.com/kaisermann/rolleiflex",
-      "name": "rolleiflex",
-      "description": "css flexbox grid/helper framework"
-    },
-    {
-      "url": "https://github.com/kaisermann/textlooper",
-      "name": "textlooper",
-      "description": "lightweight text rotation based on css animations"
-    },
-    {
-      "url": "https://github.com/kaisermann/comicbubbles",
-      "name": "comicbubbles",
-      "description": "css-only 8 bit-like comic balloons"
-    },
-    {
-      "url": "https://github.com/kaisermann/post-links",
-      "name": "post-links",
-      "description": "open <a> links using POST instead of GET"
-    },
-    {
-      "url": "https://github.com/kaisermann/aph",
-      "name": "aph",
-      "description": "minimal DOM, barely api-less, manipulation library"
-    },
-    {
-      "url": "https://github.com/kaisermann/WPDLS",
-      "name": "wpdls",
-      "description": "basic custom WordPress admin style made easy with stylus"
-    },
-    {
-      "url": "https://github.com/kaisermann/crius",
-      "name": "crius",
-      "description": "flexible front-end workflow"
-    },
-    {
-      "url": "https://github.com/kaisermann/selene",
-      "name": "selene",
-      "description": "opinionated wordpress starter theme"
-    },
-    {
-      "url": "https://github.com/kaisermann/hyperion",
-      "name": "hyperion",
-      "description": "static website workflow forked from Crius"
+      "name": "cloud platform",
+      "description": "AWS, GCP, Azure, Heroku, Digital Ocean, Nginx, Docker, Kubernetes"
     }
   ],
   "sites": [
     {
-      "url": "https://github.com/kaisermann/kaisermann",
-      "name": "kaisermann.me v2",
-      "description": "this website"
+      "title": "Music Traveler",
+      "subtitle": "Online Booking System for Musical Spaces",
+      "image": "music-traveler.png",
+      "description": "Music Traveler is a platform designed for musicians, bands, and organizers to discover, book, and manage spaces like rehearsal rooms, recording studios, and performance venues with ease and efficiency.",
+      "badges": ["Django", "Bootstrap", "PostgresSQL", "Stored Procedure", "Heroku"],
+      "live": "https://www.musictraveler.com/en/"
     },
     {
-      "url": "http://v1.kaisermann.me",
-      "name": "kaisermann.me v1",
-      "description": "first version of my personal website"
+      "title": "Bemusic",
+      "subtitle": "Music Sharing and Streaming Platform",
+      "image": "bemusic.png",
+      "description": "BeMusic enables users to upload, share, and stream music while engaging with others through comments, likes, and reposts. It supports profile creation, automated waveforms, and curated music channels.",
+      "badges": ["Angular", "Laravel", "PostgresSQL", "Digital Ocean"],
+      "live": "https://bemusic.vebto.com/"
     },
     {
-      "url": "https://copymoji.kaisermann.me",
-      "name": "copymoji",
-      "description": "build your own text emojis<br>☆└{▰⚆ヮ⚆▰}┐"
+      "title": "Digicollect",
+      "subtitle": "Business Management Platform",
+      "image": "digicollect.png",
+      "description": "Digicollect provides digital tools and insights to help companies streamline operations, adapt to technological changes, and grow at various stages using intelligent business management solutions.",
+      "badges": ["Vue", "Django", "PostgresSQL", "GoDaddy"],
+      "live": "https://digicollect.com/"
     },
     {
-      "url": "https://genr.kaisermann.me/",
-      "name": "genr",
-      "description": "lookup the musical genres of an artist"
+      "title": "Distiller",
+      "subtitle": "Advisory Platform for Distilleries",
+      "image": "distiller.png",
+      "description": "Distiller connects businesses in the spirits industry with experts for advisory services on recipe creation, equipment selection, quality control, and production process optimization.",
+      "badges": ["Ruby on Rails", "Rspec", "PostgresSQL", "Cloudflare"],
+      "live": "https://distiller.com/"
     },
     {
-      "url": "https://solardancer.kaisermann.me",
-      "name": "solar.dance",
-      "description": "just two lil' CSS guys dancing"
+      "title": "Geolava",
+      "subtitle": "AI-driven Real Estate Management Platform",
+      "image": "geolava.png",
+      "description": "Geolava is an AI-powered platform for managing real estate sales, rentals, and leases. It supports listings, tenant communications, rent tracking, and smart property insights for better decisions.",
+      "badges": ["Next.js", "Tailwind css", "Firebase", "GCP", "LLM", "OpenAI"],
+      "live": "https://geolava.com/"
+    },
+    {
+      "title": "Lamps",
+      "subtitle": "Logistics and Manufacturing Planning System",
+      "image": "lamps.png",
+      "description": "Lamps is an enterprise tool for managing logistics and manufacturing. It helps optimize material flow, production schedules, procurement, transportation, and warehousing operations.",
+      "badges": ["ASP.NET", "Angular", "MSSQL", "Stored Procedure", "Azure", "DevOps"],
+      "live": "https://lampsnew.corp.osoftec.com/"
+    },
+    {
+      "title": "Snag Solutions",
+      "subtitle": "Digital Asset Trading and Minting Platform",
+      "image": "snag-solutions.png",
+      "description": "Snag Solutions is a customizable Web3 platform that supports trading, minting, and managing NFTs and digital assets with built-in social, loyalty, and marketplace features.",
+      "badges": ["Nextjs", "PostgresSQL", "Tailwind css", "AWS", "Web3", "Solidity"],
+      "live": "https://www.snagsolutions.io/"
+    },
+    {
+      "title": "Roads",
+      "subtitle": "Route Optimization and Dispatching System",
+      "image": "roads.png",
+      "description": "Roads helps logistics companies improve delivery performance by using machine learning and real-time data to plan optimal routes and enhance resource allocation.",
+      "badges": ["ASP.NET", "Angular", "MSSQL", "Stored Procedure", "Azure", "DevOps"],
+      "live": "https://roadsdev.corp.osoftec.com/"
+    },
+    {
+      "title": "Apecoin Marketplace",
+      "subtitle": "NFT Marketplace for Digital Creators",
+      "image": "apecoin.png",
+      "description": "Apecoin Marketplace allows creators and collectors to mint, buy, and trade NFTs with seamless integration into the OpenSea ecosystem and a secure, user-friendly interface.",
+      "badges": ["Nextjs", "Tailwind css", "AWS", "Web3", "OpenSeaAPI"],
+      "live": "https://www.apecoinmarketplace.com/"
     }
   ]
+  
+  
 }
